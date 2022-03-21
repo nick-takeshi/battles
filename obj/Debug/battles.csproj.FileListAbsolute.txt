@@ -1,0 +1,8 @@
+D:\C#\ConsoleApp1\battles\bin\Debug\battles.exe.config
+D:\C#\ConsoleApp1\battles\bin\Debug\battles.exe
+D:\C#\ConsoleApp1\battles\bin\Debug\battles.pdb
+D:\C#\ConsoleApp1\battles\obj\Debug\battles.csproj.SuggestedBindingRedirects.cache
+D:\C#\ConsoleApp1\battles\obj\Debug\battles.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\battles\obj\Debug\battles.exe
+D:\C#\ConsoleApp1\battles\obj\Debug\battles.pdb
+D:\C#\ConsoleApp1\battles\obj\Debug\battles.csproj.AssemblyReference.cache
